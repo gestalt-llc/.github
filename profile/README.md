@@ -1,0 +1,1 @@
+![logo](https://github.com/gestalt-llc/.github/images/logo-dark.svg?raw=true)
